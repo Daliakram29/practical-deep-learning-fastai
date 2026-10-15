@@ -6,9 +6,7 @@ This repository documents my progress through **Practical Deep Learning for Code
 
 I'm using this repository to practice what I learn, experiment with different models and datasets, and build a stronger understanding of deep learning fundamentals.
 
-<p align="center">
-  <img src="assets/book-cover.jpg" alt="Deep Learning for Coders book cover" width="220">
-</p>
+
 ## What You'll Find Here
 
 - **Course exercises:** Jupyter notebooks based on the book and video lessons.
